@@ -1,0 +1,172 @@
+{
+  "courseTitle": "Digital Literacy Mastery: From Computer Basics to Mastering Coding",
+  "courseDescription": "A comprehensive course designed to take you from basic computer literacy to advanced coding skills. Learn how to navigate digital tools, understand online safety, use productivity software, and dive into programming languages like Python and JavaScript.",
+  "courseModules": [
+    {
+      "moduleTitle": "Module 1: Introduction to Digital Literacy",
+      "moduleDescription": "Understanding the importance of digital skills and how they can help you in everyday life.",
+      "lessons": [
+        {
+          "lessonTitle": "What is Digital Literacy?",
+          "lessonDescription": "Introduction to digital literacy and its importance in the modern world."
+        },
+        {
+          "lessonTitle": "Understanding Computers",
+          "lessonDescription": "Learn about computer hardware, software, and operating systems."
+        },
+        {
+          "lessonTitle": "Navigating the Internet",
+          "lessonDescription": "Basics of the internet, browsing, and search engines."
+        }
+      ]
+    },
+    {
+      "moduleTitle": "Module 2: Using Computers Effectively",
+      "moduleDescription": "Learn how to efficiently use a computer and its applications for everyday tasks.",
+      "lessons": [
+        {
+          "lessonTitle": "Operating Systems: Windows & macOS",
+          "lessonDescription": "A guide to understanding the most popular operating systems and their basic functions."
+        },
+        {
+          "lessonTitle": "Basic Computer Skills",
+          "lessonDescription": "Learn about file management, creating folders, and organizing documents."
+        },
+        {
+          "lessonTitle": "Using Word Processors (Microsoft Word)",
+          "lessonDescription": "Introduction to creating, editing, and formatting text documents."
+        }
+      ]
+    },
+    {
+      "moduleTitle": "Module 3: Introduction to the Internet and Online Safety",
+      "moduleDescription": "Learn how to use the internet safely, communicate online, and understand privacy and security.",
+      "lessons": [
+        {
+          "lessonTitle": "Understanding Web Browsers",
+          "lessonDescription": "Learn how to navigate different web browsers and use their features."
+        },
+        {
+          "lessonTitle": "Online Communication: Emails & Social Media",
+          "lessonDescription": "How to send and manage emails, and use social media platforms responsibly."
+        },
+        {
+          "lessonTitle": "Online Safety and Security",
+          "lessonDescription": "Understanding internet safety, privacy protection, and recognizing scams."
+        }
+      ]
+    },
+    {
+      "moduleTitle": "Module 4: Productivity Tools for Everyday Life",
+      "moduleDescription": "Master productivity tools that help with work and personal organization.",
+      "lessons": [
+        {
+          "lessonTitle": "Using Spreadsheets (Excel/Google Sheets)",
+          "lessonDescription": "An introduction to creating, editing, and analyzing data using spreadsheets."
+        },
+        {
+          "lessonTitle": "Using Presentation Software (PowerPoint/Google Slides)",
+          "lessonDescription": "Learn how to create effective and engaging presentations."
+        },
+        {
+          "lessonTitle": "Cloud Storage and File Sharing",
+          "lessonDescription": "How to use cloud storage platforms like Google Drive or OneDrive for file sharing and backup."
+        }
+      ]
+    },
+    {
+      "moduleTitle": "Module 5: Introduction to Programming Concepts",
+      "moduleDescription": "Learn the basics of programming and understand how code works.",
+      "lessons": [
+        {
+          "lessonTitle": "What is Programming?",
+          "lessonDescription": "An introduction to the concept of programming and its importance in technology."
+        },
+        {
+          "lessonTitle": "Understanding Algorithms",
+          "lessonDescription": "Learn about algorithms and how they help solve problems in programming."
+        },
+        {
+          "lessonTitle": "Variables, Data Types, and Loops",
+          "lessonDescription": "Explore variables, data types, loops, and their role in basic programming."
+        }
+      ]
+    },
+    {
+      "moduleTitle": "Module 6: Introduction to Python Programming",
+      "moduleDescription": "Start learning Python, a beginner-friendly programming language.",
+      "lessons": [
+        {
+          "lessonTitle": "Setting Up Python",
+          "lessonDescription": "How to install and set up Python on your computer."
+        },
+        {
+          "lessonTitle": "First Python Program",
+          "lessonDescription": "Writing your first Python program and understanding its structure."
+        },
+        {
+          "lessonTitle": "Conditional Statements and Loops in Python",
+          "lessonDescription": "Learn how to use if-statements, loops, and conditionals to control program flow."
+        }
+      ]
+    },
+    {
+      "moduleTitle": "Module 7: Web Development with HTML, CSS, and JavaScript",
+      "moduleDescription": "Learn the basics of web development and build your own website.",
+      "lessons": [
+        {
+          "lessonTitle": "Introduction to HTML",
+          "lessonDescription": "Learn how to structure content on the web using HTML."
+        },
+        {
+          "lessonTitle": "Styling Websites with CSS",
+          "lessonDescription": "Learn how to make your website visually appealing with CSS."
+        },
+        {
+          "lessonTitle": "Interactive Websites with JavaScript",
+          "lessonDescription": "Add interactivity to your website by learning the basics of JavaScript."
+        }
+      ]
+    },
+    {
+      "moduleTitle": "Module 8: Advanced Coding: Python and JavaScript",
+      "moduleDescription": "Master more advanced programming concepts in Python and JavaScript.",
+      "lessons": [
+        {
+          "lessonTitle": "Object-Oriented Programming in Python",
+          "lessonDescription": "Learn the fundamentals of object-oriented programming with Python."
+        },
+        {
+          "lessonTitle": "Working with APIs in JavaScript",
+          "lessonDescription": "Learn how to fetch and manipulate data using APIs in JavaScript."
+        },
+        {
+          "lessonTitle": "Building Web Applications with Python (Flask)",
+          "lessonDescription": "Learn how to build web applications using Python and the Flask framework."
+        }
+      ]
+    },
+    {
+      "moduleTitle": "Module 9: Final Project - Build a Web Application",
+      "moduleDescription": "Combine all the skills you've learned to create a fully functional web application.",
+      "lessons": [
+        {
+          "lessonTitle": "Project Planning and Design",
+          "lessonDescription": "Learn how to plan and design your web application before development."
+        },
+        {
+          "lessonTitle": "Building Your Application",
+          "lessonDescription": "Start building the front end and back end of your web application."
+        },
+        {
+          "lessonTitle": "Testing and Deploying Your Application",
+          "lessonDescription": "Learn how to test, debug, and deploy your web application online."
+        }
+      ]
+    }
+  ],
+  "courseCertification": {
+    "certificateTitle": "Certificate of Completion",
+    "certificateDescription": "Upon completing the course and the final project, you'll receive a certificate of completion recognizing your digital literacy and programming skills."
+  }
+}
